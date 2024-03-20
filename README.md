@@ -1,0 +1,2 @@
+# ZORO-HEX
+BOOT V 07
